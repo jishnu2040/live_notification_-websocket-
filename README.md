@@ -37,5 +37,13 @@ Welcome to the **Live Notification System** project! This repository demonstrate
 1. **Clone the Repository**  
    ```bash  
    git clone https://github.com/your-username/live-notifications-django.git  
-   cd live-notifications-django  
+   cd live-notifications-django
+
+
+##  Screenshort
+![App Screenshot](https://github.com/jishnu2040/live_notification_-websocket-/blob/main/frontend/src/assets/Screenshot%20(26).png)
+
+![App Screenshot](https://github.com/jishnu2040/live_notification_-websocket-/blob/main/frontend/src/assets/Screenshot%20(27).png)
+
+![App Screenshot](https://github.com/jishnu2040/live_notification_-websocket-/blob/main/frontend/src/assets/Screenshot%20(28).png)
 
